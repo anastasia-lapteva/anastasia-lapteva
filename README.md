@@ -1,5 +1,5 @@
 ![Anastasia Lapteva Web Developer Header](https://imgur.com/9yOFavL.jpg)
-### Hi, I'm Anastasia 👋
+# Hi, I'm Anastasia 👋
 
 I'm a full stack web & app developer about to graduate from Bloom Tech.
 
