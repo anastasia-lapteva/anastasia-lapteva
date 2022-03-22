@@ -1,11 +1,11 @@
 ![Anastasia Lapteva Web Developer Header](https://imgur.com/9yOFavL.jpg)
-# Hi, I'm Anastasia 👋
+## Hi, I'm Anastasia 👋
 
 I'm a full stack web & app developer about to graduate from Bloom Tech.
 
-## 🖥 Technical Skills
+### 🖥 Technical Skills
 
-## 📫 How to Reach Me:
+### 📫 How to Reach Me:
 
 <!--
 **anastasia-lapteva/anastasia-lapteva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
