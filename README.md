@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 ![Anastasia Lapteva Web Developer Header](https://imgur.com/9yOFavL.jpg)
 ## Hi, I'm Anastasia 👋
 
-I'm a full stack web & app developer about to graduate from Bloom Tech.
+I'm a full stack web & app developer on track to graduate from Bloom Tech.
 
-### 🖥 Technical Skills
+### 🖥 Technical Skills:
 
 ### 📫 How to Reach Me:
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Anastasia on LinkedIn" title="Follow Anastasia on LinkedIn"/>](https://linkedin.com/in/anastasia-lapteva)
