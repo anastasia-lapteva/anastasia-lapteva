@@ -1,4 +1,4 @@
-![Anastasia Lapteva Web Developer](https://imgur.com/a/GRc8SB7)
+![Anastasia Lapteva Web Developer](https://imgur.com/gallery/GRc8SB7)
 ### Hi, I'm Anastasia 👋
 
 <!--
