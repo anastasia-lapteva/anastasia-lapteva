@@ -3,6 +3,10 @@
 
 I'm a full stack web & app developer about to graduate from Bloom Tech.
 
+## 🖥 Technical Skills
+
+## 📫 How to Reach Me:
+
 <!--
 **anastasia-lapteva/anastasia-lapteva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
