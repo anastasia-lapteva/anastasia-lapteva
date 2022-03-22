@@ -1,4 +1,4 @@
-![Anastasia Lapteva Web Developer Header](https://imgur.com/9yOFavL)
+![Anastasia Lapteva Web Developer Header](https://imgur.com/9yOFavL.jpg)
 ### Hi, I'm Anastasia 👋
 
 <!--
