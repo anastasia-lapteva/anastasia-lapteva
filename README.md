@@ -24,6 +24,7 @@ I have dedicated the past decade to helping others within my scope of practice. 
 I love the phrase "go slow to go fast," and it's been somewhat of a motto for me during my technical training at BloomTech. If you go fast you'll get it done "quicker" perhaps - but was it done with heart and soul and substance? If you go slow it takes longer (and this applies to everything)...but your presence is what makes the process and end result truly magical. I'm so excited to share what I have learned so far.
 
 #### 🖥 Technical Skills:
+• HTML • CSS • JavaScript • React • Redux • NodeJS • SQL • Python •
 
 #### 📫 How to Reach Me:
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Anastasia on LinkedIn" title="Follow Anastasia on LinkedIn"/>](https://linkedin.com/in/anastasia-lapteva)
