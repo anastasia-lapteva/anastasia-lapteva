@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **anastasia_laptev@hotmail.com**
 
-- ⚡ Fun fact **My dog's name is Chai (not named after Chai Assertion Library)**
+- ⚡ Fun fact **My dog's name is Chai (& contrary to what a developer might think, she was not named after Chai Assertion Library)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
