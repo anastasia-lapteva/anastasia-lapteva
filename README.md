@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **React!**
+- 💬 Ask me about **React**!
 
 - 📫 How to reach me **anastasia_laptev@hotmail.com**
 
-- ⚡ Fun fact **My dog's name is Chai (not named after Chai Assertion Library).**
+- ⚡ Fun fact **My dog's name is Chai (not named after Chai Assertion Library)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
