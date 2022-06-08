@@ -15,16 +15,23 @@ Here are some ideas to get you started:
 -->
 
 ![Anastasia Lapteva Web Developer Header](https://imgur.com/9yOFavL.jpg)
-### Hi, I'm Anastasia 👋
+<h1 align="center">Hi 👋, I'm Anastasia</h1>
+<h3 align="center">A passionate full stack developer from Los Angeles</h3>
 
-I'm a full stack web & app developer on track to graduate from BloomTech within the next couple of months. At first glance, my resume appears more geared towards healthcare than computer programming. You may be thinking..."what gives?" 
+- 🔭 I’m currently working on [Coder Heroes](https://github.com/BloomTech-Labs/coder-heroes-fe)
 
-I have dedicated the past decade to helping others within my scope of practice. From assisting in a undergraduate research laboratory to scribing at an urgent care...more often than not my work had me remotely crunching data, battling bugs in the EMR (electronic medical records), and essentially being appointed an in-house IT department for healthcare providers and coworkers alike. Since I'm attentive to details and love to organize (and sometimes re-organize for fun! plus to make the space more efficient), working with computers was a natural fit. Last year I had a come-to-God moment (or whatever spiritual deity with whom you may or may-not have a friendly rapport going). I understood I was on the wrong path and must change direction...towards path that had been so welcoming all along. In 2021, I officially changed careers.
+- 🌱 I’m currently learning **Python**
 
-I love the phrase "go slow to go fast," and it's been somewhat of a motto for me during my technical training at BloomTech. If you go fast you'll get it done "quicker" perhaps - but was it done with heart and soul and substance? If you go slow it takes longer (and this applies to everything)...but your presence is what makes the process and end result truly magical. I'm so excited to share what I have learned so far.
+- 💬 Ask me about **React!**
 
-#### 🖥 Technical Skills:
-• HTML • CSS • JavaScript • React • Redux • NodeJS • SQL • Python •
+- 📫 How to reach me **anastasia_laptev@hotmail.com**
 
-#### 📫 How to Reach Me:
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Anastasia on LinkedIn" title="Follow Anastasia on LinkedIn"/>](https://linkedin.com/in/anastasia-lapteva)
+- ⚡ Fun fact **My dog's name is Chai (not named after Chai Assertion Library).**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+
