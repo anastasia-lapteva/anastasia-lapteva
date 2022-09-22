@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 
 ![Anastasia Lapteva Web Developer Header](https://imgur.com/9yOFavL.jpg)
 <h1 align="center">Hi 👋, I'm Anastasia</h1>
-<h3 align="center">A passionate full stack developer based in Los Angeles</h3>
+<h3 align="center">A passionate full stack web developer based in Los Angeles</h3>
 
 - 🔭 I’m currently working on [Coder Heroes](https://github.com/BloomTech-Labs/coder-heroes-fe)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning about **Swagger**
 
-- 💬 Ask me about **Optimistic Concurrency Control**!
+- 💬 Ask me about my experience with **Optimistic Concurrency Control** !
 
 - 📫 How to reach me **anastasia_laptev@hotmail.com**
 
